@@ -292,7 +292,8 @@ article img {
 }
 
 .read-more {
-    font-size: 0.85em;
+    margin-top: .3em;
+    font-size: 0.90em;
 }
 
 .divider {
