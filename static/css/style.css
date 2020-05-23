@@ -234,6 +234,11 @@ article header h1 a {
     color: #333;
 }
 
+article.post p {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
 .article-info {
     font-size: 0.75em;
     color: grey;
